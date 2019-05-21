@@ -1,2 +1,2 @@
 # Statable
-Easy to use state machine to any of your classes
+Easy to use state machine to any of your Swift classes
